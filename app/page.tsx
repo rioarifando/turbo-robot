@@ -1,5 +1,5 @@
 const Home = () => {
-    return <div>m wafi</div>;
+    return <div>m wafiss rio arifando</div>;
 };
 
 export default Home;
